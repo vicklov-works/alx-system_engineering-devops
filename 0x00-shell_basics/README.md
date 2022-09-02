@@ -1,0 +1,1 @@
+This is the thrird repository that i have created for alx. this task is about script writing.
