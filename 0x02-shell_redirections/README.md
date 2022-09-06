@@ -1,0 +1,1 @@
+This is about Linux I/O redirections 
